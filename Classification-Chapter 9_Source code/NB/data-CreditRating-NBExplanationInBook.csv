@@ -1,0 +1,15 @@
+ID,PurchaseFrequency,CreditRating,Age,Approval
+1,Medium,OK,<35,No
+2,Medium,Excellent,<35,No
+3,High,Fair,35-40,Yes
+4,High,Fair,>40,Yes
+5,Low,Excellent,>40,Yes
+6,Low,OK,>40,No
+7,Low,Excellent,35-40,Yes
+8,Medium,Fair,<35,No
+9,Low,Fair,<35,No
+10,Medium,Excellent,>40,No
+11,High,Fair,<35,Yes
+12,Medium,Excellent,35-40,No
+13,Medium,Fair,35-40,Yes
+14,High,OK,<35,No

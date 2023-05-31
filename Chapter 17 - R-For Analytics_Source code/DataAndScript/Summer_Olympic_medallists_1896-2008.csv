@@ -1,0 +1,141 @@
+Country,NOC CODE,Total,Golds,Silvers,Bronzes
+USA,USA,2297,930,728,639
+Soviet Union,,1010,395,319,296
+Germany (includes W but not E.Germany),GER,851,247,284,320
+Great Britain,GBR,714,207,255,252
+France,FRA,638,192,212,234
+Italy,ITA,521,190,157,174
+Sweden,SWE,475,142,160,173
+Hungary,HUN,458,159,140,159
+Australia,AUS,432,131,137,164
+East Germany,,409,153,129,127
+China,CHN,385,163,117,105
+Japan,JPN,360,123,112,125
+Russia,RUS,317,108,97,112
+Finland,FIN,299,101,83,115
+Romania,ROU,292,86,89,117
+Poland,POL,261,62,80,119
+Canada,CAN,260,58,94,108
+Netherlands,NED,246,70,80,96
+South Korea,KOR,215,68,74,73
+Bulgaria,BUL,212,51,84,77
+Cuba,CUB,194,67,64,63
+Switzerland,SUI,181,45,71,65
+Denmark,DEN,171,41,63,67
+Norway,NOR,144,54,48,42
+Czechoslovakia,,143,49,49,45
+Belgium,BEL,139,37,51,51
+Spain,ESP,113,34,49,30
+Unified Team (CIS),,112,45,38,29
+Greece,GRE,108,30,42,36
+Ukraine,UKR,96,28,22,46
+Brazil,BRA,91,20,25,46
+Yugoslavia,,90,28,31,31
+Austria,AUT,86,18,33,35
+New Zealand,NZL,85,36,16,33
+Turkey,TUR,82,37,23,22
+Kenya,KEN,75,23,28,24
+South Africa,RSA,70,20,24,26
+Argentina,ARG,66,17,23,26
+Belarus,BLR,64,10,19,35
+Jamaica,JAM,55,13,25,17
+Mexico,MEX,55,12,18,25
+Iran,IRI,48,11,15,22
+North Korea,PRK,41,10,12,19
+Kazakhstan,KAZ,39,9,16,14
+Ethiopia,ETH,38,18,6,14
+Czech Republic,CZE,33,10,12,11
+Estonia,EST,31,9,8,14
+Indonesia,INA,25,6,9,10
+Egypt,EGY,24,7,7,10
+Ireland,IRL,23,8,7,8
+Nigeria,NGR,23,2,9,12
+Portugal,POR,22,4,7,11
+Morocco,MAR,21,6,5,10
+Thailand,THA,21,7,4,10
+India,IND,20,9,4,7
+Slovakia,SVK,20,7,8,5
+Mongolia,MGL,19,2,7,10
+Taiwan/Chinese Taipei/Republic of China,TPE,19,2,6,11
+Georgia,GEO,18,5,2,11
+Croatia,CRO,17,3,6,8
+Latvia,LAT,17,2,11,4
+Uzbekistan,UZB,17,4,5,8
+Azerbaijan,AZE,16,4,3,9
+Lithuania,LTU,16,4,4,8
+Slovenia,SLO,15,3,5,7
+Algeria,ALG,14,4,2,8
+Trinidad & Tobago,TRI,14,1,5,8
+Chile,CHI,13,2,7,4
+Australasia,,12,3,4,5
+Colombia,COL,11,1,3,7
+Venzuela,VEN,11,1,2,8
+Bahamas,BAH,10,4,2,4
+Pakistan,PAK,10,3,3,4
+Uruguay,URU,10,2,2,6
+Armenia,ARM,9,1,1,7
+Philippines,PHI,9,0,2,7
+Russian Empire,,8,1,4,3
+Zimbabwe,ZIM,8,3,4,1
+Israel,ISR,7,1,1,5
+Tunisia,TUN,7,2,2,3
+Puerto Rico,PUR,6,0,1,5
+Uganda,UGA,6,1,3,2
+Cameroon,CMR,5,3,1,1
+Moldova,MDA,5,0,2,3
+Bohemia,,4,0,1,3
+Costa Rica,CRC,4,1,1,2
+Dominican Republic,DOM,4,2,1,1
+Ghana,GHA,4,0,1,3
+Iceland,ISL,4,0,2,2
+Lebanon,LIB,4,0,2,2
+Malaysia,MAS,4,0,2,2
+Namibia,NAM,4,0,4,0
+Peru,PER,4,1,3,0
+Kyrgyzstan,KGZ,3,0,1,2
+Panama,PAN,3,1,0,2
+Serbia,SRB,3,0,1,2
+Syria,SYR,3,1,1,1
+British West Indies,,2,0,0,2
+Ecuador,ECU,2,1,1,0
+Haiti,HAI,2,0,1,1
+Hong Kong,HKG,2,1,1,0
+Luxembourg,LUX,2,1,1,0
+Mozambique,MOZ,2,1,0,1
+Qatar,QAT,2,0,0,2
+Saudi Arabia,KSA,2,0,1,1
+Serbia and Montenegro,,2,0,2,0
+Singapore,SIN,2,0,2,0
+Sri Lanka,SRI,2,0,2,0
+Suriname,,2,1,0,1
+Tajikistan,TJK,2,0,1,1
+Tanzania,TAN,2,0,2,0
+Vietnam,VIE,2,0,2,0
+Zambia,ZAM,2,0,1,1
+Afghanistan,AFG,1,0,0,1
+Barbados,BAR,1,0,0,1
+Bermuda,BER,1,0,0,1
+Burundi,BDI,1,1,0,0
+Cote d'Ivoire,,1,0,1,0
+Djibouti,DJI,1,0,0,1
+Eritrea,ERI,1,0,0,1
+Guyana,GUY,1,0,0,1
+Iraq,IRQ,1,0,0,1
+Kuwait,KUW,1,0,0,1
+Macedonia,MKD,1,0,0,1
+Mauritius,MRI,1,0,0,1
+Netherlands Antilles,,1,0,1,0
+Niger,NIG,1,0,0,1
+Paraguay,PAR,1,0,1,0
+Senegal,SEN,1,0,1,0
+Sudan,SUD,1,0,1,0
+Togo,TOG,1,0,0,1
+Tonga,TGA,1,0,1,0
+United Arab Emirates,UAE,1,1,0,0
+Virgin Islands,ISV,1,0,1,0
+Country XYZ,XYZ,,,NULL,
+Countr B,A,NA,1,NULL,
+Country C,C,NA,,NULL,1
+Country D,D,,,NULL,
+Country E,E,NA,1,NULL,1
+Country F,F,,,NULL,NA
